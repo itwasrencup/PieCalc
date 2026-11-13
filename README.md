@@ -1,2 +1,2 @@
 # PieCalc
-a simple calculator in python
+a totally normal, simple calculator in python
